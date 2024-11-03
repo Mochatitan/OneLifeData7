@@ -1,12 +1,11 @@
 id=16662
-Written Pet Grave
+Written Pet Grave# &written +clickToRead
 containable=0
 containSize=1.000000,vertSlotRot=0.000000
 permanent=1,minPickupAge=3
 noFlip=0
 sideAccess=0
 heldInHand=0
-ridingAnimationIndex=0
 blocksWalking=0,leftBlockingRadius=0,rightBlockingRadius=0,drawBehindPlayer=0
 mapChance=0.000000#biomes_0
 heatValue=0
@@ -27,9 +26,11 @@ useDistance=1
 sounds=-1:0.0,-1:0.0,-1:0.0,-1:0.0
 creationSoundInitialOnly=0
 creationSoundForce=0
-numSlots=0#timeStretch=1.000000
+numSlots=1#timeStretch=1.000000
 slotSize=1.000000
+slotStyle=1
 slotsLocked=0
+slotPos=0.000000,0.000000,vert=0,parent=-1
 numSprites=3
 spriteID=110752
 pos=0.000000,0.000000
